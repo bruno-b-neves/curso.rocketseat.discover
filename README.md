@@ -1,1 +1,1 @@
-# curso.rocketseat.discover
+# Curso | Rocketseat | Discover
