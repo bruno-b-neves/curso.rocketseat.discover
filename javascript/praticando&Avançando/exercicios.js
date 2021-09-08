@@ -92,5 +92,5 @@ console.log(students_new)
 */
 
 console.log(a)
-var a = 1
+var a = 1       // undefined
 
